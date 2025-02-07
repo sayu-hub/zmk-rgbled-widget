@@ -28,7 +28,7 @@ config RGBLED_WIDGET_BATTERY_BLINK_MS
 
 config RGBLED_WIDGET_BATTERY_LEVEL_HIGH
     int "High battery level percentage"
-    default 80
+    default 50
 
 config RGBLED_WIDGET_BATTERY_LEVEL_LOW
     int "Low battery level percentage"
